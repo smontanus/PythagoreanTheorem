@@ -3,8 +3,7 @@
     package="com.stevemontanus.pythagoreantheorem">
 
     <application
-        android:allowBackup="true"
-        android:debuggable="true"
+        android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
